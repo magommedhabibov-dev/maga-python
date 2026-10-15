@@ -1,2 +1,0 @@
-# maga-python
-python homework
